@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Yet another \'blog!
+title:               anthology
 tagline:             welcome!
-url:                 https://github.com/matt-hayden
+url:                 https://ant.holo.gy
 paginate:            1
 baseurl:             ""
 
@@ -18,15 +18,15 @@ sass:
 # About/contact
 author:
   name:              Matt Hayden
-  url:               https://github.com/matt-hayden
+  url:               https://github.com/Anthology-blog
   email:             hayden+github@morp.holo.gy
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/matt-hayden/jekyll-blog
+  repo:              https://github.com/Anthology-blog/anthology-blog
 google_analytics:
-  #id:                
+  id:                UA-102590217-5
 
 # Gems
 gems:
