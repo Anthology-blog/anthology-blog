@@ -2,11 +2,13 @@
 permalink:           pretty
 
 # Setup
-title:               anthology
-tagline:             welcome!
+title:               Some recipes
+tagline:             for everyday cooking
 url:                 https://ant.holo.gy
 paginate:            1
 baseurl:             ""
+kramdown:
+  entity_output:     :as_input
 
 # Assets
 #
@@ -32,4 +34,6 @@ google_analytics:
 gems:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji

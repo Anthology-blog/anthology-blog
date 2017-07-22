@@ -6,12 +6,14 @@ categories:
 ---
 
 
-From http://cooking.nytimes.com/recipes/10782-katharine-hepburns-brownies
+# 🏌️
+
+[From the New York Times]( http://cooking.nytimes.com/recipes/10782-katharine-hepburns-brownies )
 
 ### Ingredients
 
 -   <span class="quantity">&frac12;</span> <span class="ingredient-name">cup cocoa</span>
--   <span class="quantity">½</span> <span class="ingredient-name">cup butter (1 stick)</span>
+-   <span class="quantity">&frac12;</span> <span class="ingredient-name">cup butter (1 stick)</span>
 -   <span class="quantity">2</span> <span class="ingredient-name">eggs</span>
 -   <span class="quantity">1</span> <span class="ingredient-name">cup sugar</span>
 -   <span class="quantity">&frac14;</span> <span class="ingredient-name">cup flour</span>
@@ -22,7 +24,7 @@ From http://cooking.nytimes.com/recipes/10782-katharine-hepburns-brownies
 
 ### Preparation
 
-1.  Heat oven to 325 &degree; F.
+1.  Heat oven to 325 &deg; F.
 2.  Melt butter in saucepan with cocoa and stir until smooth. Remove
     from heat and allow to cool for a few minutes, then transfer to a
     large bowl. Whisk in eggs, one at a time. Stir in vanilla.
