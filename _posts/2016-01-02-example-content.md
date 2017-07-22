@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Example content
+categories:
+- generic
+tags:
+- example
 ---
 
 
