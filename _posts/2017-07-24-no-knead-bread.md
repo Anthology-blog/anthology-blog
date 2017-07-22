@@ -7,7 +7,7 @@ categories:
 ---
 
 
-From http://www.marthastewart.com/portal/site/mslo/menuitem.aced15a43a1d10e593598e10d373a0a0/?vgnextoid=3edda538db6e0110VgnVCM1000003d370a0aRCRD&vgnextchannel=c3c60eb74ce5f010VgnVCM1000003d370a0aRCRD&vgnextfmt=print&currentslide=1&page=1
+[First published January 2007]( http://www.marthastewart.com/portal/site/mslo/menuitem.aced15a43a1d10e593598e10d373a0a0/?vgnextoid=3edda538db6e0110VgnVCM1000003d370a0aRCRD&vgnextchannel=c3c60eb74ce5f010VgnVCM1000003d370a0aRCRD&vgnextfmt=print&currentslide=1&page=1 )
 
 This recipe for No-Knead Bread is courtesy of Jim Lahey of New York
 City's Sullivan Street Bakery and the New York Times.
@@ -15,17 +15,17 @@ City's Sullivan Street Bakery and the New York Times.
 
 ### Ingredients
 
-Makes one 1 1/2-pound loaf.
+Makes one 1 &frac12;-pound loaf.
 
 -   3 cups all-purpose or bread flour, plus more for work surface
--   1/4 teaspoon instant yeast
--   1 1/4 teaspoons salt
+-   &frac14; teaspoon instant yeast
+-   1 &frac14; teaspoons salt
 -   Olive oil, as needed
 -   Cornmeal or wheat bran, as needed (optional)
 
 ### Directions
 
-1.  In a large bowl, combine flour, yeast, and salt. Add 1 1/2
+1.  In a large bowl, combine flour, yeast, and salt. Add 1 &frac12;
     cups water and stir until blended; dough will be shaggy and sticky.
     Coat a second large bowl with olive oil. Transfer dough to oiled
     bowl and cover bowl with plastic wrap. Let dough rest at least 12
@@ -44,7 +44,7 @@ Makes one 1 1/2-pound loaf.
     cotton towel and let rise until it has more than doubled in size and
     does not readily spring back when poked with a finger, about
     2 hours.
-4.  After about 1 1/2 hours, preheat oven to 500 degrees. Place a
+4.  After about 1 &frac12; hours, preheat oven to 500 degrees. Place a
     6- to 8-quart heavy covered pot, such as cast-iron or Pyrex, in oven
     as it heats. When dough has fully risen, carefully remove pot
     from oven. Remove top towel from dough and slide your hand under the
@@ -53,4 +53,3 @@ Makes one 1 1/2-pound loaf.
     as it bakes. Cover, and bake 30 minutes. Uncover, and continue
     baking until browned, 15 to 30 minutes. Cool on a wire rack.
 
-First published January 2007
